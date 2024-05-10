@@ -27,4 +27,6 @@
 
 ### 📈 My Github
 
-![liuguanhua's GitHub stats](https://github-readme-stats.vercel.app/api?username=fangjiecoding&show_icons=true&theme=tokyonight&count_private=true)
+<a href="https://github.com/fangjiecoding"><img align="center" src="https://github-readme-stats.vercel.app/api?username=fangjiecoding&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" /></a>
+<a href="https://github.com/fangjiecoding"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fangjiecoding&layout=compact&theme=tokyonight&hide_border=true" /></a>
+
